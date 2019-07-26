@@ -6,10 +6,10 @@ except ImportError:
 config = {
 
     'description': 'Skeleton Project - changme',
-    'author': 'Morizel Hodges Jr',
+    'author': 'your name',
     'url': 'URL to get it',
     'download_url': 'where to download it',
-    'author_email': 'mhodgesjr2010@gmail.com',
+    'author_email': 'your email',
     'version': '1.0',
     'install_requires':['nose'],
     'packages':['NAME'],
